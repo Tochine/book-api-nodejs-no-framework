@@ -1,0 +1,16 @@
+{
+  "name": "book-api-nodejs-no-framework",
+  "version": "1.0.0",
+  "description": "A book api without framework.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tochukwu Adams",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.9.1"
+  }
+}
