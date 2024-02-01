@@ -17,5 +17,3 @@ export const mysqlConnection = async () => {
         console.log('error connecting to db', err)
     }
 }
-
-mysqlConnection()
